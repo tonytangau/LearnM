@@ -2,8 +2,6 @@
 
 LearnM is an AI-powered app designed to help users **learn and understand topics deeply**. It uses the DeepSeek API to generate structured study guides, including key concepts, examples, FAQs, and suggested resources.
 
----
-
 ## Features
 
 - **Learn Mode**:
@@ -12,8 +10,6 @@ LearnM is an AI-powered app designed to help users **learn and understand topics
 - **Interactive Feedback**:
   - Provides clear and engaging explanations.
   - Encourages critical thinking with interactive questions.
-
----
 
 ## How to Use
 
@@ -43,24 +39,16 @@ LearnM is an AI-powered app designed to help users **learn and understand topics
    - Click **Generate Study Guide**.
    - View the structured study guide with key concepts, examples, FAQs, and resources.
 
----
-
 ## Requirements
 
 - Python 3.7+
 - DeepSeek API key
 
----
-
 ## License
 
 This project is licensed under the MIT License.
-
----
 
 ## Acknowledgments
 
 - Powered by [DeepSeek API](https://www.deepseek.com/).
 - Built with [Streamlit](https://streamlit.io/).
-
----
